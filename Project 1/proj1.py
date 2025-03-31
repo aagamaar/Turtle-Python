@@ -5,3 +5,4 @@ speed(0)
 bgcolor('black')
 pensize(2)
 n=100
+h=0
