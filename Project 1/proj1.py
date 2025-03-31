@@ -1,4 +1,3 @@
-import tkinter as TK
 from turtle import *
 from colorsys import *
 setposition(50,-50)
